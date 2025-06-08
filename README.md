@@ -46,18 +46,6 @@ This project focuses on designing and implementing a robust **relational databas
 
 ---
 
-## 🚀 How to Run the Project
-
-1. Install any **SQL-compatible database** (e.g., MySQL, PostgreSQL, SQLite).
-2. Use the provided SQL script to:
-   - Create the database schema  
-   - Insert sample data  
-   - Run pre-defined queries for testing and validation
-
-🗂️ Make sure to follow the logical execution order:  
-`students.sql → instructors.sql → courses.sql → sections.sql → assignments.sql → queries.sql`
-
----
 
 ## 📄 License
 
