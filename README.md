@@ -1,4 +1,4 @@
-<h1 align="center">🎓 Database System for Academy Application</h1>
+<h1 align="center"> Database System for Academy Application</h1>
 
 <p align="center">
   A relational database designed to support interactive educational platforms with structured and efficient data handling.
